@@ -4,6 +4,9 @@ header {
 
 .body {
     background-color: #C4C4C4;
+}
+
+.container {
     display: flex;
     justify-content: center;
 }
