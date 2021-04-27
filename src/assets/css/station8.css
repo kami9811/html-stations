@@ -4,12 +4,10 @@ header {
 
 .body {
     background-color: #C4C4C4;
-}
-
-.main {
-    display:flex;
+    display: flex;
     justify-content: center;
 }
+
 .card {
     background-color: #fff;
     padding: 20px;
